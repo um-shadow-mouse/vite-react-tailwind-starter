@@ -19,7 +19,8 @@ A minimal, fast, and modern frontend setup using **Vite**, **React**, and **Tail
 
 ## 📁 Project Structure
 
-vite-react-tailwind/
+vite-react-tailwind.zip
+├── vite-react-tailwind/
 ├── index.html
 ├── package.json
 ├── postcss.config.js
