@@ -2,7 +2,8 @@
 
 A minimal, fast, and modern frontend setup using **Vite**, **React**, and **Tailwind CSS**.
 
-![Screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/ccccef54-1fd1-4004-9b2d-9f53bdb0d1fc" />
+
 
 ---
 
@@ -28,4 +29,30 @@ vite-react-tailwind/
 ├── App.jsx
 ├── index.css
 └── main.jsx
+
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone or Download
+
+https://github.com/um-shadow-mouse/vite-react-tailwind-starter.git
+cd vite-react-tailwind
+
+2 **Install Dependencies**
+npm install
+
+
+**3. Run Dev Server**
+npm run dev
+
+**4. Build for Production**
+npm run build
+
+**5. Preview Production Build**
+npm run preview
+
+
+
 
